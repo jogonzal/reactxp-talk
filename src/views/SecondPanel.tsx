@@ -84,6 +84,9 @@ export class SecondPanel extends RX.Component<SecondPanelProps, SecondPanelState
                         <RX.Text style={ styles.titleText }>
                             Here is a simple control built using ReactXP
                         </RX.Text>
+                        <RX.Text>
+                            JORGE WAS HERE!
+                        </RX.Text>
                         <ToggleSwitch
                             value={ this.state.toggleValue }
                             onChange={ this._onChangeToggle }

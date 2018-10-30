@@ -11,5 +11,8 @@ Common code (Typescript)
 ## Benefits
 Main benefit is you get native components and mobile platform support. You may choose a react native just for mobile and have electron apps for all desktop experiences.
 
+## Drawbacks
+No CSS, no HTML. Styles are simple hierarchy objects.
+
 ## Jorge's opinion
 Makes more sense to go web everywhere and then handle native as a one-off
