@@ -57,3 +57,6 @@ dist
 dist-*
 .vs/*
 .vs/*
+# Haul
+#
+haul-debug.log
